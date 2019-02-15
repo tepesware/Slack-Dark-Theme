@@ -18,9 +18,9 @@ a {
 	
 }
 
-.c-message--light .c-message__content_header {
-	border-bottom: dotted  #565656;
-    border-bottom-width:thin;
+.c-message--light .c-message__content_header  {
+	border-top: dotted  #565656;
+    border-top-width:thin;
 }
 
 /*autor of message*/
