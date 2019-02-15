@@ -17,15 +17,19 @@ a {
     color: #a1a1a1 !important;
 	
 }
+.c-message--light.c-message--adjacent {
+    padding-top: 2px;
+    border: none;
+}
 
-.c-message--light .c-message__content_header  {
+.c-message, .c-message--light{
 	border-top: dotted  #565656;
     border-top-width:thin;
 }
 
 /*autor of message*/
 .c-message--light .c-message__sender .c-message__sender_link {
-    color: #ddd;
+    color: #eee;
 }
 
 a:link, a:visited {
