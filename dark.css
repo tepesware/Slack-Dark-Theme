@@ -19,6 +19,11 @@ a {
     border-bottom-width:thin;
 }
 
+/*autor of message*/
+.c-message--light .c-message__sender .c-message__sender_link {
+    color: #fff;
+}
+
 a:link, a:visited {
         color: #1264a3;
     }
@@ -3277,9 +3282,7 @@ div.CodeMirror span.CodeMirror-nonmatchingbracket {
         border-color: #363636;
     }
 
-.c-message--light .c-message__sender .c-message__sender_link {
-    color: #6f6f6f;
-}
+
 
 .light_theme ts-message {
     color: #a1a1a1;
