@@ -25,7 +25,7 @@ a {
 
 /*autor of message*/
 .c-message--light .c-message__sender .c-message__sender_link {
-    color: #6f6f6f;
+    color: #ddd;
 }
 
 a:link, a:visited {
@@ -3285,6 +3285,7 @@ div.CodeMirror span.CodeMirror-nonmatchingbracket {
     .dense_theme ts-message .message_content .message_current_status {
         border-color: #363636;
     }
+
 
 
 .light_theme ts-message {
