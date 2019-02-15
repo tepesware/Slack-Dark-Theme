@@ -15,6 +15,10 @@ a {
 .c-virtual_list__item, .p-message_pane__limited_history_foreword {
     background-color: #333;
     color: #a1a1a1 !important;
+	
+}
+
+.c-message--light .c-message__content_header {
 	border-bottom: dotted  #565656;
     border-bottom-width:thin;
 }
